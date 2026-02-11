@@ -1,0 +1,456 @@
+VATyp;VA_Nr_(KT);Datum_von;Datum_bis;Dauer;Veranstaltungsstätte;VA_Raum;VA_Buchung_Name;Buchungsstatus;Veranstalter_1;VA_RaumFläche;Aktivitätsstatus
+MV;12352;01.01.2025 12:00;01.01.2025 21:00;9;FFK;Französische Friedrichstadtkirche;Weltkonzert;Vtg ok;Weltkonzerte;0;Veranstaltung allgemein
+MV;12352;01.01.2025 12:00;01.01.2025 21:00;9;FFK;Saal;Weltkonzert;Vtg ok;Weltkonzerte;720;Veranstaltung allgemein
+MV;12352;01.01.2025 12:00;01.01.2025 21:00;9;FFK;Salon Godet;Weltkonzert;Vtg ok;Weltkonzerte;22;Veranstaltung allgemein
+MV;12161;17.01.2025 16:00;17.01.2025 22:00;6;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12161;17.01.2025 16:00;17.01.2025 22:00;6;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12161;17.01.2025 16:00;17.01.2025 22:00;6;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12161;18.01.2025 16:00;18.01.2025 22:00;6;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12161;18.01.2025 16:00;18.01.2025 22:00;6;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12161;18.01.2025 16:00;18.01.2025 22:00;6;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12160;24.01.2025 16:00;24.01.2025 22:00;6;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12160;24.01.2025 16:00;24.01.2025 22:00;6;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Konzert
+MV;12160;24.01.2025 16:00;24.01.2025 22:00;6;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12160;25.01.2025 12:00;25.01.2025 18:00;6;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12160;25.01.2025 12:00;25.01.2025 18:00;6;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12160;25.01.2025 12:00;25.01.2025 18:00;6;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;0;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Saal;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;720;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Salon Godet;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;22;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Georges-Casalis-Saal;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;160;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Restaurant Hugo & Notte;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;160;Veranstaltung allgemein
+MV;12189;05.01.2025 13:30;05.01.2025 20:00;6,5;FFK;Rotunde;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;87;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Französische Friedrichstadtkirche;Preisverleihung;Vtg ok;Soroptimist International Deutschland;0;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Saal;Preisverleihung;Vtg ok;Soroptimist International Deutschland;720;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Georges-Casalis-Saal;Preisverleihung;Vtg ok;Soroptimist International Deutschland;160;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Entrée;Preisverleihung;Vtg ok;Soroptimist International Deutschland;24;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Rotunde;Preisverleihung;Vtg ok;Soroptimist International Deutschland;87;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Restaurant Hugo & Notte;Preisverleihung;Vtg ok;Soroptimist International Deutschland;160;Veranstaltung allgemein
+MV;12214;26.01.2025 14:30;26.01.2025 19:30;5;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12214;26.01.2025 14:30;26.01.2025 19:30;5;FFK;Saal;Neujahrskonzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12214;26.01.2025 14:30;26.01.2025 19:30;5;FFK;Salon Godet;Neujahrskonzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12340;25.03.2025 12:30;25.03.2025 22:30;10;FFK;Französische Friedrichstadtkirche;Dinner;Vtg ok;RIAG Media GmbH;0;Veranstaltung allgemein
+MV;12340;25.03.2025 12:30;25.03.2025 22:30;10;FFK;Saal;Dinner;Vtg ok;RIAG Media GmbH;720;Veranstaltung allgemein
+MV;12340;25.03.2025 12:30;25.03.2025 22:30;10;FFK;Entrée;Dinner;Vtg ok;RIAG Media GmbH;24;Veranstaltung allgemein
+MV;12282;27.03.2025 16:00;27.03.2025 23:00;7;FFK;Französische Friedrichstadtkirche;Bankettveranstaltung;Vtg ok;Bundesministerium des Innern und für Heimat Standort Berlin;0;Veranstaltung allgemein
+MV;12282;27.03.2025 16:00;27.03.2025 23:00;7;FFK;Saal;Bankettveranstaltung;Vtg ok;Bundesministerium des Innern und für Heimat Standort Berlin;720;Veranstaltung allgemein
+MV;12282;27.03.2025 16:00;27.03.2025 23:00;7;FFK;Innenhof;Bankettveranstaltung;Vtg ok;Bundesministerium des Innern und für Heimat Standort Berlin;45;Veranstaltung allgemein
+MV;12376;18.03.2025 08:00;19.03.2025 02:00;18;FFK;Französische Friedrichstadtkirche;Galadinner;Vtg ok;insolite Germany GmbH;0;Veranstaltung allgemein
+MV;12376;18.03.2025 08:00;19.03.2025 02:00;18;FFK;Saal;Galadinner;Vtg ok;insolite Germany GmbH;720;Veranstaltung allgemein
+MV;12376;18.03.2025 08:00;19.03.2025 02:00;18;FFK;Georges-Casalis-Saal;Galadinner;Vtg ok;insolite Germany GmbH;160;Veranstaltung allgemein
+MV;12376;18.03.2025 08:00;19.03.2025 02:00;18;FFK;Entrée;Galadinner;Vtg ok;insolite Germany GmbH;24;Veranstaltung allgemein
+MV;12376;18.03.2025 08:00;19.03.2025 02:00;18;FFK;Salon Godet;Galadinner;Vtg ok;insolite Germany GmbH;22;Veranstaltung allgemein
+MV;12345;30.01.2025 14:30;30.01.2025 22:30;8;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12345;30.01.2025 14:30;30.01.2025 22:30;8;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12345;30.01.2025 14:30;30.01.2025 22:30;8;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12345;30.01.2025 14:30;30.01.2025 22:30;8;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12345;31.01.2025 16:30;31.01.2025 23:30;7;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12345;31.01.2025 16:30;31.01.2025 23:30;7;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12345;31.01.2025 16:30;31.01.2025 23:30;7;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12345;31.01.2025 16:30;31.01.2025 23:30;7;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12345;01.02.2025 16:15;01.02.2025 23:40;7,42;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12345;01.02.2025 16:15;01.02.2025 23:40;7,42;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12345;01.02.2025 16:15;01.02.2025 23:40;7,42;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12345;01.02.2025 16:15;01.02.2025 23:40;7,42;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12345;14.02.2025 14:30;14.02.2025 23:30;9;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12345;14.02.2025 14:30;14.02.2025 23:30;9;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12345;14.02.2025 14:30;14.02.2025 23:30;9;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12345;14.02.2025 14:30;14.02.2025 23:30;9;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12370;12.01.2025 13:00;12.01.2025 19:00;6;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;0;Konzert
+MV;12370;12.01.2025 13:15;12.01.2025 19:15;6;FFK;Saal;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;720;Konzert
+MV;12370;12.01.2025 13:00;12.01.2025 19:00;6;FFK;Salon Godet;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;22;Konzert
+MV;12323;05.04.2025 13:30;05.04.2025 23:30;10;FFK;Französische Friedrichstadtkirche;Frühlingskonzert;Vtg ok;Büro Tina Tandler;0;Veranstaltung allgemein
+MV;12323;05.04.2025 13:30;05.04.2025 23:30;10;FFK;Saal;Frühlingskonzert;Vtg ok;Büro Tina Tandler;720;Veranstaltung allgemein
+MV;12323;05.04.2025 13:30;05.04.2025 23:30;10;FFK;Salon Godet;Frühlingskonzert;Vtg ok;Büro Tina Tandler;22;Veranstaltung allgemein
+MV;12355;05.03.2025 13:00;06.03.2025 00:00;11;FFK;Französische Friedrichstadtkirche;Turismo Andalucia;Vtg ok;ABBSOLUTE COMUNICACIÓN S.L.;0;Veranstaltung allgemein
+MV;12355;05.03.2025 13:00;06.03.2025 00:00;11;FFK;Saal;Turismo Andalucia;Vtg ok;ABBSOLUTE COMUNICACIÓN S.L.;720;Veranstaltung allgemein
+MV;12355;05.03.2025 13:00;06.03.2025 00:00;11;FFK;Entrée;Turismo Andalucia;Vtg ok;ABBSOLUTE COMUNICACIÓN S.L.;24;Veranstaltung allgemein
+MV;12355;05.03.2025 13:00;06.03.2025 00:00;11;FFK;Salon Godet;Turismo Andalucia;Vtg ok;ABBSOLUTE COMUNICACIÓN S.L.;22;Veranstaltung allgemein
+MV;;02.02.2025 08:30;07.02.2025 11:30;123;FFK;Französische Friedrichstadtkirche;Hugo&Notte geschlossen, kein Catering möglich;Fix;;0;Veranstaltung allgemein
+MV;;07.02.2025 12:00;14.02.2025 00:00;156;FFK;Französische Friedrichstadtkirche;Hugo&Notte geschlossen, kein Catering möglich;Fix;;0;Veranstaltung allgemein
+EV;;15.02.2025 09:00;15.02.2025 16:00;7;FFK;Französische Friedrichstadtkirche;Gender-Reveal-Party;Vtg ok;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;;15.02.2025 09:00;15.02.2025 16:00;7;FFK;Georges-Casalis-Saal;Gender-Reveal-Party;Vtg ok;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+EV;;21.02.2025 08:00;21.02.2025 20:00;12;FFK;Französische Friedrichstadtkirche;Hochzeitsshooting & Hochzeitstour;Vtg ok;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;;21.02.2025 08:00;21.02.2025 20:00;12;FFK;Georges-Casalis-Saal;Hochzeitsshooting & Hochzeitstour;Vtg ok;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+EV;;22.02.2025 08:00;22.02.2025 20:00;12;FFK;Französische Friedrichstadtkirche;Hochzeitsshooting & Hochzeitstour;Vtg ok;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+MV;12373;21.03.2025 13:30;21.03.2025 22:30;9;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12373;21.03.2025 13:30;21.03.2025 22:30;9;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12373;21.03.2025 13:30;21.03.2025 22:30;9;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12373;21.03.2025 13:30;21.03.2025 22:30;9;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12373;22.03.2025 17:00;22.03.2025 23:59;6,98;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12373;22.03.2025 17:00;22.03.2025 23:59;6,98;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12373;22.03.2025 17:00;22.03.2025 23:59;6,98;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12373;22.03.2025 17:00;22.03.2025 23:59;6,98;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12383;14.03.2025 14:00;14.03.2025 23:30;9,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12383;14.03.2025 14:00;14.03.2025 23:30;9,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12383;14.03.2025 14:00;14.03.2025 23:30;9,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12383;14.03.2025 14:00;14.03.2025 23:30;9,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12220;08.03.2025 11:00;08.03.2025 22:00;11;FFK;Salon Godet;Preisverleihung;Vtg ok;Soroptimist International Deutschland;22;Veranstaltung allgemein
+MV;12388;03.04.2025 16:30;03.04.2025 23:45;7,25;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12388;03.04.2025 16:30;03.04.2025 23:45;7,25;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12388;03.04.2025 16:30;03.04.2025 23:45;7,25;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12388;03.04.2025 16:30;03.04.2025 23:45;7,25;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+EV;;17.03.2025 14:00;17.03.2025 17:00;3;FFK;Französische Friedrichstadtkirche;Team Meeting Kasse Dom;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;;17.03.2025 14:00;17.03.2025 17:00;3;FFK;Salon Godet;Team Meeting Kasse Dom;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;22;Veranstaltung allgemein
+MV;12351;15.01.2025 13:30;15.01.2025 22:15;8,75;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12351;15.01.2025 13:30;15.01.2025 22:15;8,75;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12351;15.01.2025 13:30;15.01.2025 22:15;8,75;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12351;15.01.2025 13:30;15.01.2025 22:15;8,75;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12351;16.01.2025 17:00;17.01.2025 22:15;29,25;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12351;16.01.2025 17:00;17.01.2025 22:15;29,25;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12351;16.01.2025 17:00;17.01.2025 22:15;29,25;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12351;16.01.2025 17:00;17.01.2025 22:15;29,25;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12351;13.02.2025 15:00;13.02.2025 23:30;8,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12351;13.02.2025 15:00;13.02.2025 23:30;8,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12351;13.02.2025 15:00;13.02.2025 23:30;8,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12351;13.02.2025 15:00;13.02.2025 23:30;8,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12386;23.03.2025 14:30;23.03.2025 20:00;5,5;FFK;Französische Friedrichstadtkirche;Gottesdienst und Empfang zur Verabschiedung des Direktors Herrn Dr. Theilemann;Vtg ok;Berliner Missionswerk;0;Veranstaltung allgemein
+MV;12386;23.03.2025 14:30;23.03.2025 20:00;5,5;FFK;Saal;Gottesdienst und Empfang zur Verabschiedung des Direktors Herrn Dr. Theilemann;Vtg ok;Berliner Missionswerk;720;Veranstaltung allgemein
+MV;12340;25.03.2025 12:30;25.03.2025 22:30;10;FFK;Georges-Casalis-Saal;Dinner;Vtg ok;RIAG Media GmbH;160;Veranstaltung allgemein
+EV;;04.11.2024 14:00;04.11.2024 16:00;2;FFK;Salon Godet;Teammeeting Kasse Dom;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;22;Veranstaltung allgemein
+MV;12322;09.12.2024 17:00;09.12.2024 22:00;5;FFK;Französische Friedrichstadtkirche;Kerstsamenzang 2024;Zus;Nederlandse kerk in Duitsland (NKID) kern Berlijn;0;Veranstaltung allgemein
+MV;12322;09.12.2024 17:00;09.12.2024 22:00;5;FFK;Saal;Kerstsamenzang 2024;Zus;Nederlandse kerk in Duitsland (NKID) kern Berlijn;720;Veranstaltung allgemein
+MV;12350;18.12.2024 18:00;18.12.2024 18:15;0,25;FFK;Französische Friedrichstadtkirche;Nutzung Flügel;Zus;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;0;Veranstaltung allgemein
+MV;12350;18.12.2024 18:00;18.12.2024 18:15;0,25;FFK;Saal;Nutzung Flügel;Zus;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;720;Veranstaltung allgemein
+MV;12341;18.12.2024 13:00;18.12.2024 17:00;4;FFK;Französische Friedrichstadtkirche;Catering;Vtg ok;Evangelische Akademie zu Berlin gGmbH;0;Veranstaltung allgemein
+MV;12341;18.12.2024 13:00;18.12.2024 17:00;4;FFK;Georges-Casalis-Saal;Catering;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+MV;12341;18.12.2024 13:00;18.12.2024 17:00;4;FFK;Rotunde;Catering;Vtg ok;Evangelische Akademie zu Berlin gGmbH;87;Veranstaltung allgemein
+EV;;17.12.2024 14:00;17.12.2024 16:00;2;FFK;Georges-Casalis-Saal;"Arbeitsgruppentreffen ""Kommunikations- und Entscheidungskultur""";Fix;;160;Veranstaltung allgemein
+MV;12230;23.07.2024 15:00;23.07.2024 20:50;5,83;FFK;Französische Friedrichstadtkirche;Konzert des Zhejiang Youth Symphony Orchestra;Vtg ok;Berlin Klassik Artist & Culture Management;0;Veranstaltung allgemein
+MV;12230;23.07.2024 15:00;23.07.2024 20:50;5,83;FFK;Saal;Konzert des Zhejiang Youth Symphony Orchestra;Vtg ok;Berlin Klassik Artist & Culture Management;720;Veranstaltung allgemein
+MV;12230;23.07.2024 15:00;23.07.2024 20:50;5,83;FFK;Georges-Casalis-Saal;Konzert des Zhejiang Youth Symphony Orchestra;Vtg ok;Berlin Klassik Artist & Culture Management;160;Veranstaltung allgemein
+MV;12230;23.07.2024 15:00;23.07.2024 20:50;5,83;FFK;Salon Godet;Konzert des Zhejiang Youth Symphony Orchestra;Vtg ok;Berlin Klassik Artist & Culture Management;22;Veranstaltung allgemein
+MV;12290;06.09.2024 14:15;07.09.2024 00:40;10,42;FFK;Französische Friedrichstadtkirche;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12290;06.09.2024 14:15;07.09.2024 00:40;10,42;FFK;Saal;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12290;07.09.2024 17:00;08.09.2024 02:30;9,5;FFK;Saal;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12290;07.09.2024 17:00;08.09.2024 02:30;9,5;FFK;Französische Friedrichstadtkirche;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12305;09.10.2024 14:00;09.10.2024 23:00;9;FFK;Französische Friedrichstadtkirche;30. Jahrestag des Forum Menschenrechte;Vtg ok;Evangelische Akademie zu Berlin gGmbH;0;Veranstaltung allgemein
+MV;12305;09.10.2024 14:00;09.10.2024 23:00;9;FFK;Georges-Casalis-Saal;30. Jahrestag des Forum Menschenrechte;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+MV;12290;06.09.2024 14:15;07.09.2024 00:40;10,42;FFK;Salon Godet;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12290;07.09.2024 17:00;08.09.2024 02:30;9,5;FFK;Salon Godet;Meditation und Soundbath Event;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12318;03.12.2024 18:30;03.12.2024 22:00;3,5;FFK;Französische Friedrichstadtkirche;Networking;Vtg ok;BVMed - Bundesverband Medizintechnologie e.V.;0;Veranstaltung allgemein
+MV;12318;03.12.2024 18:30;03.12.2024 22:00;3,5;FFK;Georges-Casalis-Saal;Networking;Vtg ok;BVMed - Bundesverband Medizintechnologie e.V.;160;Veranstaltung allgemein
+MV;12269;15.08.2024 17:30;15.08.2024 23:30;6;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12269;15.08.2024 17:30;15.08.2024 23:30;6;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12269;15.08.2024 17:30;15.08.2024 23:30;6;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12269;15.08.2024 17:30;15.08.2024 23:30;6;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12269;16.08.2024 18:00;16.08.2024 23:30;5,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12269;16.08.2024 18:00;16.08.2024 23:30;5,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12269;16.08.2024 18:00;16.08.2024 23:30;5,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12269;16.08.2024 18:00;16.08.2024 23:30;5,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12299;27.12.2024 14:00;27.12.2024 22:45;8,75;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12299;27.12.2024 14:00;27.12.2024 22:45;8,75;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12299;27.12.2024 14:00;27.12.2024 22:45;8,75;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12299;27.12.2024 14:00;27.12.2024 22:45;8,75;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12299;28.12.2024 17:45;28.12.2024 23:45;6;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12299;28.12.2024 17:45;28.12.2024 23:45;6;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12299;28.12.2024 17:45;28.12.2024 23:45;6;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12299;28.12.2024 17:45;28.12.2024 23:45;6;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12302;21.09.2024 15:30;22.09.2024 00:30;9;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12302;21.09.2024 15:30;22.09.2024 00:30;9;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12302;21.09.2024 15:30;22.09.2024 00:30;9;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12302;21.09.2024 15:30;22.09.2024 00:30;9;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12296;04.10.2024 14:10;04.10.2024 23:56;9,77;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12296;04.10.2024 14:10;04.10.2024 23:56;9,77;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12296;04.10.2024 14:10;04.10.2024 23:56;9,77;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12296;04.10.2024 14:10;04.10.2024 23:56;9,77;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12297;02.11.2024 14:00;02.11.2024 23:30;9,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12297;02.11.2024 14:00;02.11.2024 23:30;9,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12297;02.11.2024 14:00;02.11.2024 23:30;9,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12297;02.11.2024 14:00;02.11.2024 23:30;9,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12268;12.06.2024 08:00;12.06.2024 08:15;0,25;FFK;Französische Friedrichstadtkirche;Nutzung Flügel;Zus;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;0;Veranstaltung allgemein
+MV;12268;12.06.2024 08:00;12.06.2024 08:15;0,25;FFK;Saal;Nutzung Flügel;Zus;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;720;Veranstaltung allgemein
+EV;12301;19.07.2024 14:00;19.07.2024 16:00;2;FFK;Französische Friedrichstadtkirche;Teammeting Kasse Dom;Zus;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;12301;19.07.2024 14:00;19.07.2024 16:00;2;FFK;Salon Godet;Teammeting Kasse Dom;Zus;BESONDERE ORTE Umweltforum Berlin GmbH;22;Veranstaltung allgemein
+MV;12274;15.09.2024 11:00;15.09.2024 12:30;1,5;FFK;Französische Friedrichstadtkirche;Livestream des Festgottesdienstes;Zus;Evangelische Kirche in Deutschland (EKD);0;Veranstaltung allgemein
+MV;12274;15.09.2024 11:00;15.09.2024 12:30;1,5;FFK;Saal;Livestream des Festgottesdienstes;Zus;Evangelische Kirche in Deutschland (EKD);720;Veranstaltung allgemein
+MV;12277;01.09.2024 15:00;01.09.2024 21:00;6;FFK;Französische Friedrichstadtkirche;Konzert des Chors der Zivilisation;Vtg ok;Förderverein Antikes Antiochia e.V.;0;Konzert
+MV;12277;01.09.2024 15:00;01.09.2024 21:00;6;FFK;Saal;Konzert des Chors der Zivilisation;Vtg ok;Förderverein Antikes Antiochia e.V.;720;Konzert
+MV;12276;20.11.2024 14:00;20.11.2024 22:45;8,75;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;CHORALSPACE 2021 gGmbH;0;Konzert
+MV;12276;20.11.2024 14:00;20.11.2024 22:45;8,75;FFK;Saal;Konzert;Vtg ok;CHORALSPACE 2021 gGmbH;720;Konzert
+MV;12276;20.11.2024 14:00;20.11.2024 22:45;8,75;FFK;Salon Godet;Konzert;Vtg ok;CHORALSPACE 2021 gGmbH;22;Konzert
+MV;12277;01.09.2024 15:00;01.09.2024 21:00;6;FFK;Salon Godet;Konzert des Chors der Zivilisation;Vtg ok;Förderverein Antikes Antiochia e.V.;22;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Salon Godet;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;22;Veranstaltung allgemein
+MV;12244;25.05.2024 10:00;25.05.2024 12:30;2,5;FFK;Georges-Casalis-Saal;Event Pulse of Berlin;Vtg ok;YPO Berlin e.V.;160;Veranstaltung allgemein
+MV;12298;07.11.2024 14:30;07.11.2024 22:15;7,75;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12298;07.11.2024 14:30;07.11.2024 22:15;7,75;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12298;07.11.2024 14:30;07.11.2024 22:15;7,75;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12298;07.11.2024 14:30;07.11.2024 22:15;7,75;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12298;08.11.2024 17:15;08.11.2024 23:30;6,25;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12298;08.11.2024 17:15;08.11.2024 23:30;6,25;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12298;08.11.2024 17:15;08.11.2024 23:30;6,25;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12298;08.11.2024 17:15;08.11.2024 23:30;6,25;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12330;12.12.2024 14:00;12.12.2024 22:45;8,75;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12330;12.12.2024 14:00;12.12.2024 22:45;8,75;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12330;12.12.2024 14:00;12.12.2024 22:45;8,75;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12330;12.12.2024 14:00;12.12.2024 22:45;8,75;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12330;13.12.2024 15:00;13.12.2024 23:45;8,75;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12330;13.12.2024 15:00;13.12.2024 23:45;8,75;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12330;13.12.2024 15:00;13.12.2024 23:45;8,75;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12330;13.12.2024 15:00;13.12.2024 23:45;8,75;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+EV;;04.07.2024 08:00;04.07.2024 13:00;5;FFK;Französische Friedrichstadtkirche;Tour der BESONDEREN ORTE;Fix;;0;Veranstaltung allgemein
+EV;;04.07.2024 08:00;04.07.2024 13:00;5;FFK;Saal;Tour der BESONDEREN ORTE;Fix;;720;Veranstaltung allgemein
+EV;;17.07.2024 09:00;17.07.2024 17:00;8;FFK;Französische Friedrichstadtkirche;Fotoshooting TW + FFK;Fix;;0;Veranstaltung allgemein
+EV;;17.07.2024 09:00;17.07.2024 17:00;8;FFK;Saal;Fotoshooting TW + FFK;Fix;;720;Veranstaltung allgemein
+MV;12294;11.09.2024 12:00;11.09.2024 19:00;7;FFK;Französische Friedrichstadtkirche;3. Ortskräftekongress;Vtg ok;Evangelische Akademie zu Berlin gGmbH;0;Veranstaltung allgemein
+MV;12294;11.09.2024 12:00;11.09.2024 19:00;7;FFK;Saal;3. Ortskräftekongress;Vtg ok;Evangelische Akademie zu Berlin gGmbH;720;Veranstaltung allgemein
+EV;12245;08.07.2024 08:00;08.07.2024 17:00;9;FFK;Restaurant Hugo & Notte;Visions workshop Part 2;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+EV;12245;08.07.2024 08:00;08.07.2024 17:00;9;FFK;Rotunde;Visions workshop Part 2;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;87;Veranstaltung allgemein
+EV;;21.07.2024 08:00;21.07.2024 18:00;10;FFK;Französische Friedrichstadtkirche;Workshop nachhaltigere Menügestaltung;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+MV;12247;31.05.2024 16:30;31.05.2024 22:30;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;Berlin Klassik Artist & Culture Management;0;Veranstaltung allgemein
+MV;12247;31.05.2024 16:30;31.05.2024 22:30;6;FFK;Saal;Konzert;Vtg ok;Berlin Klassik Artist & Culture Management;720;Veranstaltung allgemein
+MV;12247;31.05.2024 16:30;31.05.2024 22:30;6;FFK;Georges-Casalis-Saal;Konzert;Vtg ok;Berlin Klassik Artist & Culture Management;160;Veranstaltung allgemein
+MV;12247;31.05.2024 16:30;31.05.2024 22:30;6;FFK;Salon Godet;Konzert;Vtg ok;Berlin Klassik Artist & Culture Management;22;Veranstaltung allgemein
+EV;;22.07.2024 08:00;22.07.2024 18:00;10;FFK;Französische Friedrichstadtkirche;Workshop nachhaltigere Menügestaltung;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+MV;12292;15.12.2024 14:30;15.12.2024 19:30;5;FFK;Französische Friedrichstadtkirche;„Charms of Christmas“;Vtg ok;Konzertbüro Hannah Schlubeck;0;Veranstaltung allgemein
+MV;12292;15.12.2024 14:30;15.12.2024 19:30;5;FFK;Saal;„Charms of Christmas“;Vtg ok;Konzertbüro Hannah Schlubeck;720;Veranstaltung allgemein
+MV;12292;15.12.2024 14:30;15.12.2024 19:30;5;FFK;Salon Godet;„Charms of Christmas“;Vtg ok;Konzertbüro Hannah Schlubeck;22;Veranstaltung allgemein
+EV;12245;08.07.2024 08:00;08.07.2024 17:00;9;FFK;Französische Friedrichstadtkirche;Visions workshop Part 2;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;12245;08.07.2024 08:00;08.07.2024 17:00;9;FFK;Georges-Casalis-Saal;Visions workshop Part 2;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Französische Friedrichstadtkirche;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;0;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Saal;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;720;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Georges-Casalis-Saal;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;160;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Entrée;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;24;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Rotunde;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;87;Veranstaltung allgemein
+MV;12267;27.11.2024 13:00;27.11.2024 22:00;9;FFK;Restaurant Hugo & Notte;Mitgliederversammlung 2024;Vtg ok;Deutscher Paritätischer Wohlfahrtsverband Landesverband Berlin e.V.;160;Veranstaltung allgemein
+EV;;29.05.2024 08:00;29.05.2024 10:30;2,5;FFK;Französische Friedrichstadtkirche;Stiftung AußerGewöhnlich;Zus;;0;Veranstaltung allgemein
+EV;;29.05.2024 08:00;29.05.2024 10:30;2,5;FFK;Saal;Stiftung AußerGewöhnlich;Zus;;720;Veranstaltung allgemein
+EV;;29.05.2024 08:00;29.05.2024 10:30;2,5;FFK;Rotunde;Stiftung AußerGewöhnlich;Zus;;87;Veranstaltung allgemein
+EV;;29.05.2024 08:00;29.05.2024 10:30;2,5;FFK;Restaurant Hugo & Notte;Stiftung AußerGewöhnlich;Zus;;160;Veranstaltung allgemein
+MV;12191;25.04.2024 19:30;25.04.2024 20:30;1;FFK;Saal;Catering Hauptversammlung Reformierter Bund;Zus;Reformierter Bund in Deutschland;720;Veranstaltung allgemein
+MV;12224;10.12.2024 15:30;10.12.2024 21:30;6;FFK;Saal;Vorweihnachtliches Konzert;Vtg ok;LIONS FÖRDERVEREIN Berlin-Hohenschönhausen e.V.;720;Veranstaltung allgemein
+MV;12224;10.12.2024 15:30;10.12.2024 21:30;6;FFK;Französische Friedrichstadtkirche;Vorweihnachtliches Konzert;Vtg ok;LIONS FÖRDERVEREIN Berlin-Hohenschönhausen e.V.;0;Veranstaltung allgemein
+MV;12224;10.12.2024 15:30;10.12.2024 21:30;6;FFK;Georges-Casalis-Saal;Vorweihnachtliches Konzert;Vtg ok;LIONS FÖRDERVEREIN Berlin-Hohenschönhausen e.V.;160;Veranstaltung allgemein
+MV;12224;10.12.2024 15:30;10.12.2024 21:30;6;FFK;Salon Godet;Weihnachtliches Benefizkonzert;Vtg ok;LIONS FÖRDERVEREIN Berlin-Hohenschönhausen e.V.;22;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Französische Friedrichstadtkirche;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;0;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Saal;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;720;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Georges-Casalis-Saal;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Entrée;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;24;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Rotunde;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;87;Veranstaltung allgemein
+Son;12246;24.06.2024 08:00;24.06.2024 23:30;15,5;FFK;Restaurant Hugo & Notte;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Französische Friedrichstadtkirche;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;0;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Saal;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;720;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Georges-Casalis-Saal;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Entrée;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;24;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Rotunde;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;87;Veranstaltung allgemein
+Son;12246;25.06.2024 08:00;25.06.2024 16:00;8;FFK;Restaurant Hugo & Notte;Flüchtlingsschutzssymposium;Vtg ok;Evangelische Akademie zu Berlin gGmbH;160;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Saal;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;720;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Entrée;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;24;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Salon Godet;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;22;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Georges-Casalis-Saal;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;160;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Französische Friedrichstadtkirche;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;0;Veranstaltung allgemein
+MV;12253;26.06.2024 12:30;27.06.2024 00:30;12;FFK;Restaurant Hugo & Notte;Johannisempfang 2024;Vtg ok;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;160;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Rotunde;Galadinner;Vtg ok;Heacon Service GmbH;87;Veranstaltung allgemein
+MV;12244;25.05.2024 10:00;25.05.2024 14:30;4,5;FFK;Französische Friedrichstadtkirche;Event Pulse of Berlin;Vtg ok;YPO Berlin e.V.;0;Veranstaltung allgemein
+MV;12244;25.05.2024 12:30;25.05.2024 14:30;2;FFK;Restaurant Hugo & Notte;Event Pulse of Berlin;Vtg ok;YPO Berlin e.V.;160;Veranstaltung allgemein
+MV;12244;25.05.2024 10:00;25.05.2024 14:30;4,5;FFK;Rotunde;Event Pulse of Berlin;Vtg ok;YPO Berlin e.V.;87;Veranstaltung allgemein
+MV;12181;12.01.2024 16:00;12.01.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12181;12.01.2024 16:00;12.01.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12181;12.01.2024 16:00;12.01.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12182;26.01.2024 16:00;26.01.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12182;26.01.2024 16:00;26.01.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12182;26.01.2024 16:00;26.01.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+TF;;22.04.2024 07:00;22.04.2024 10:00;3;FFK;Französische Friedrichstadtkirche;Wartung BMA;Fix;;0;Wartung
+TF;;29.01.2024 07:00;29.01.2024 10:00;3;FFK;Französische Friedrichstadtkirche;Wartung Instandsetzung;Fix;;0;Wartung
+TF;;15.07.2024 07:00;15.07.2024 10:00;3;FFK;Französische Friedrichstadtkirche;Wartung Instandsetzung;Fix;;0;Wartung
+MV;12181;13.01.2024 16:00;13.01.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12181;13.01.2024 16:00;13.01.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12181;13.01.2024 16:00;13.01.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12171;14.01.2024 13:30;14.01.2024 19:30;6;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;0;Konzert
+MV;12171;14.01.2024 13:30;14.01.2024 19:30;6;FFK;Saal;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;720;Konzert
+MV;12171;14.01.2024 13:30;14.01.2024 19:30;6;FFK;Salon Godet;Neujahrskonzert;Vtg ok;Orchester Ronny Heinrich;22;Konzert
+MV;12248;12.05.2024 13:30;12.05.2024 19:30;6;FFK;Französische Friedrichstadtkirche;Muttertagskonzert;Vtg ok;Orchester Ronny Heinrich;0;Konzert
+MV;12248;12.05.2024 13:30;12.05.2024 19:30;6;FFK;Saal;Muttertagskonzert;Vtg ok;Orchester Ronny Heinrich;720;Konzert
+MV;12248;12.05.2024 13:30;12.05.2024 19:30;6;FFK;Salon Godet;Muttertagskonzert;Vtg ok;Orchester Ronny Heinrich;22;Konzert
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;0;Veranstaltung allgemein
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Saal;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;720;Veranstaltung allgemein
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Salon Godet;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;22;Veranstaltung allgemein
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Georges-Casalis-Saal;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;160;Veranstaltung allgemein
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Restaurant Hugo & Notte;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;160;Veranstaltung allgemein
+MV;12106;06.01.2024 13:50;06.01.2024 20:20;6,5;FFK;Rotunde;Neujahrskonzert;Vtg ok;vero - Verband der Bau- und Rohstoffindustrie e.V.;87;Veranstaltung allgemein
+MV;12312;05.10.2024 16:30;05.10.2024 22:30;6;FFK;Französische Friedrichstadtkirche;Weltkonzert;Vtg ok;Weltkonzerte;0;Veranstaltung allgemein
+MV;12312;05.10.2024 16:30;05.10.2024 22:30;6;FFK;Saal;Weltkonzert;Vtg ok;Weltkonzerte;720;Veranstaltung allgemein
+MV;12312;05.10.2024 16:30;05.10.2024 22:30;6;FFK;Salon Godet;Weltkonzert;Vtg ok;Weltkonzerte;22;Veranstaltung allgemein
+MV;12165;07.12.2024 13:00;07.12.2024 22:00;9;FFK;Georges-Casalis-Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;160;Konzert
+MV;12112;07.01.2024 08:30;07.01.2024 14:00;5,5;FFK;Entrée;Catering zu: 75 Jahrfeier der Evangelischen Forschungsakademie;Vtg ok;Evangelische Forschungsakademie | Union Evangelischer Kirchen in der EKD (UEK);24;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Französische Friedrichstadtkirche;Galadinner;Vtg ok;Heacon Service GmbH;0;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Saal;Galadinner;Vtg ok;Heacon Service GmbH;720;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Georges-Casalis-Saal;Galadinner;Vtg ok;Heacon Service GmbH;160;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Entrée;Galadinner;Vtg ok;Heacon Service GmbH;24;Veranstaltung allgemein
+EV;;05.03.2024 19:00;05.03.2024 21:00;2;FFK;Georges-Casalis-Saal;rotary club;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+MV;12145;01.02.2024 10:00;01.02.2024 17:30;7,5;FFK;Salon Godet;Neujahrsempfang;Vtg ok;Verband Bergbau, Geologie und Umwelt e.V.;22;Veranstaltung allgemein
+MV;12143;19.03.2024 10:30;20.03.2024 01:30;15;FFK;Salon Godet;Dinnerveranstaltung;Vtg ok;insolite Germany GmbH;22;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Innenhof;Galadinner;Vtg ok;Heacon Service GmbH;45;Veranstaltung allgemein
+MV;12179;14.05.2024 08:00;15.05.2024 00:00;16;FFK;Salon Godet;Galadinner;Vtg ok;Heacon Service GmbH;22;Veranstaltung allgemein
+MV;12143;19.03.2024 10:30;20.03.2024 01:30;15;FFK;Entrée;Dinnerveranstaltung;Vtg ok;insolite Germany GmbH;24;Veranstaltung allgemein
+MV;12192;22.06.2024 16:15;22.06.2024 22:45;6,5;FFK;Französische Friedrichstadtkirche;Noche de Tango;Vtg ok;Badaruta, Julian;0;Konzert
+MV;12192;22.06.2024 16:15;22.06.2024 22:45;6,5;FFK;Saal;Noche de Tango;Vtg ok;Badaruta, Julian;720;Konzert
+MV;12192;22.06.2024 16:15;22.06.2024 22:45;6,5;FFK;Salon Godet;Noche de Tango;Vtg ok;Badaruta, Julian;22;Konzert
+MV;12191;26.04.2024 13:45;26.04.2024 21:30;7,75;FFK;Restaurant Hugo & Notte;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;160;Veranstaltung allgemein
+MV;12191;26.04.2024 13:45;26.04.2024 21:30;7,75;FFK;Rotunde;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;87;Veranstaltung allgemein
+MV;12215;20.12.2024 08:00;20.12.2024 12:30;4,5;FFK;Französische Friedrichstadtkirche;Weihnachtskonzert;Vtg ok;Max-Planck-Gymnasium;0;Veranstaltung allgemein
+MV;12215;20.12.2024 08:00;20.12.2024 12:30;4,5;FFK;Saal;Weihnachtskonzert;Vtg ok;Max-Planck-Gymnasium;720;Veranstaltung allgemein
+MV;12215;20.12.2024 08:00;20.12.2024 12:30;4,5;FFK;Salon Godet;Weihnachtskonzert;Vtg ok;Max-Planck-Gymnasium;22;Veranstaltung allgemein
+MV;12215;20.12.2024 08:00;20.12.2024 12:30;4,5;FFK;Georges-Casalis-Saal;Weihnachtskonzert;Vtg ok;Max-Planck-Gymnasium;160;Veranstaltung allgemein
+MV;12145;01.02.2024 10:00;01.02.2024 17:30;7,5;FFK;Französische Friedrichstadtkirche;Neujahrsempfang;Vtg ok;Verband Bergbau, Geologie und Umwelt e.V.;0;Veranstaltung allgemein
+MV;12145;01.02.2024 10:00;01.02.2024 17:30;7,5;FFK;Saal;Neujahrsempfang;Vtg ok;Verband Bergbau, Geologie und Umwelt e.V.;720;Veranstaltung allgemein
+MV;12145;01.02.2024 10:00;01.02.2024 17:30;7,5;FFK;Entrée;Neujahrsempfang;Vtg ok;Verband Bergbau, Geologie und Umwelt e.V.;24;Veranstaltung allgemein
+MV;12139;11.10.2024 13:30;11.10.2024 23:30;10;FFK;Französische Friedrichstadtkirche;Lichtfestivalkonzert;Vtg ok;Büro Tina Tandler;0;Veranstaltung allgemein
+MV;12139;11.10.2024 13:30;11.10.2024 23:30;10;FFK;Saal;Lichtfestivalkonzert;Vtg ok;Büro Tina Tandler;720;Veranstaltung allgemein
+MV;12139;11.10.2024 13:30;11.10.2024 23:30;10;FFK;Salon Godet;Lichtfestivalkonzert;Vtg ok;Büro Tina Tandler;22;Veranstaltung allgemein
+MV;12140;26.12.2024 13:00;27.12.2024 00:00;11;FFK;Saal;Weihnachtskonzert;Vtg ok;Büro Tina Tandler;720;Veranstaltung allgemein
+MV;12140;26.12.2024 13:00;27.12.2024 00:00;11;FFK;Salon Godet;Weihnachtskonzert;Vtg ok;Büro Tina Tandler;22;Veranstaltung allgemein
+MV;12140;26.12.2024 13:00;27.12.2024 00:00;11;FFK;Französische Friedrichstadtkirche;Weihnachtskonzert;Vtg ok;Büro Tina Tandler;0;Veranstaltung allgemein
+MV;12209;04.12.2024 13:00;04.12.2024 21:00;8;FFK;Französische Friedrichstadtkirche;Adventskonzert;Vtg ok;Vertretung des Freistaats Thüringen beim Bund;0;Veranstaltung allgemein
+MV;12209;04.12.2024 13:00;04.12.2024 21:00;8;FFK;Saal;Adventskonzert;Vtg ok;Vertretung des Freistaats Thüringen beim Bund;720;Veranstaltung allgemein
+MV;12209;04.12.2024 13:00;04.12.2024 21:00;8;FFK;Georges-Casalis-Saal;Adventskonzert;Vtg ok;Vertretung des Freistaats Thüringen beim Bund;160;Veranstaltung allgemein
+MV;12209;04.12.2024 13:00;04.12.2024 21:00;8;FFK;Salon Godet;Adventskonzert;Vtg ok;Vertretung des Freistaats Thüringen beim Bund;22;Veranstaltung allgemein
+MV;12155;22.03.2024 14:30;22.03.2024 23:30;9;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12155;22.03.2024 14:30;22.03.2024 23:30;9;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12155;22.03.2024 14:30;22.03.2024 23:30;9;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12155;22.03.2024 14:30;22.03.2024 23:30;9;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12155;23.03.2024 15:00;23.03.2024 23:30;8,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12155;23.03.2024 15:00;23.03.2024 23:30;8,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12155;23.03.2024 15:00;23.03.2024 23:30;8,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12155;23.03.2024 15:00;23.03.2024 23:30;8,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12164;14.12.2024 12:00;14.12.2024 18:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Konzert
+MV;12164;14.12.2024 12:00;14.12.2024 18:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12164;14.12.2024 12:00;14.12.2024 18:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Saal;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;720;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Georges-Casalis-Saal;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;160;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Rotunde;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;87;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Französische Friedrichstadtkirche;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;0;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Entrée;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;24;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Restaurant Hugo & Notte;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;160;Veranstaltung allgemein
+MV;12219;24.04.2024 09:30;24.04.2024 17:30;8;FFK;Salon Godet;Energiekonferenz;Vtg ok;Becker Büttner Held PartGmbB Rechtsanwälte Wirtschaftsprüfer Steuerberater | PartGmbB;22;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Saal;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;720;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Georges-Casalis-Saal;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;160;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Rotunde;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;87;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Entrée;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;24;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Französische Friedrichstadtkirche;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;0;Veranstaltung allgemein
+MV;12228;07.06.2024 12:00;07.06.2024 22:00;10;FFK;Restaurant Hugo & Notte;Verleihung Deutscher Nationalpreis;Vtg ok;Deutsche Nationalstiftung;160;Veranstaltung allgemein
+MV;12241;28.04.2024 14:00;28.04.2024 20:00;6;FFK;Französische Friedrichstadtkirche;Weltkonzert;Vtg ok;Weltkonzerte;0;Veranstaltung allgemein
+MV;12241;28.04.2024 14:00;28.04.2024 20:00;6;FFK;Saal;Weltkonzert;Vtg ok;Weltkonzerte;720;Veranstaltung allgemein
+MV;12241;28.04.2024 14:00;28.04.2024 20:00;6;FFK;Salon Godet;Weltkonzert;Vtg ok;Weltkonzerte;22;Veranstaltung allgemein
+MV;11994;22.01.2024 16:00;23.01.2024 01:00;9;FFK;Französische Friedrichstadtkirche;Dinner Milch-Montag;Vtg ok;Milchindustrie-Verband e. V.;0;Veranstaltung allgemein
+MV;11994;22.01.2024 16:00;23.01.2024 01:00;9;FFK;Saal;Dinner Milch-Montag;Vtg ok;Milchindustrie-Verband e. V.;720;Veranstaltung allgemein
+MV;11994;22.01.2024 16:00;23.01.2024 01:00;9;FFK;Entrée;Dinner Milch-Montag;Vtg ok;Milchindustrie-Verband e. V.;24;Veranstaltung allgemein
+MV;12001;20.01.2024 14:30;20.01.2024 19:30;5;FFK;Französische Friedrichstadtkirche;Neujahrskonzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12001;20.01.2024 14:30;20.01.2024 19:30;5;FFK;Saal;Neujahrskonzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12001;20.01.2024 14:30;20.01.2024 19:30;5;FFK;Salon Godet;Neujahrskonzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;;03.08.2024 08:00;18.08.2024 18:00;370;FFK;Französische Friedrichstadtkirche;Neue Anfragen, die nach dem 30.03.2024 rein kommen, nur nach Rücksprache;Fix;;0;Veranstaltung allgemein
+TF;;14.10.2024 07:00;14.10.2024 10:00;3;FFK;Französische Friedrichstadtkirche;Wartung Instandsetzung;Fix;;0;Wartung
+MV;12029;26.05.2024 14:30;26.05.2024 19:30;5;FFK;Französische Friedrichstadtkirche;Galakonzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12029;26.05.2024 14:30;26.05.2024 19:30;5;FFK;Saal;Galakonzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12029;26.05.2024 14:30;26.05.2024 19:30;5;FFK;Salon Godet;Galakonzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12033;07.07.2024 14:30;07.07.2024 19:30;5;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12033;07.07.2024 14:30;07.07.2024 19:30;5;FFK;Saal;Konzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12033;07.07.2024 14:30;07.07.2024 19:30;5;FFK;Salon Godet;Konzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12034;13.09.2024 14:30;13.09.2024 19:30;5;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12034;13.09.2024 14:30;13.09.2024 19:30;5;FFK;Saal;Konzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12034;13.09.2024 14:30;13.09.2024 19:30;5;FFK;Salon Godet;Konzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12035;24.11.2024 14:30;24.11.2024 19:30;5;FFK;Französische Friedrichstadtkirche;"Konzert ""Gala der Tenöre""";Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12035;24.11.2024 14:30;24.11.2024 19:30;5;FFK;Saal;"Konzert ""Gala der Tenöre""";Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12035;24.11.2024 14:30;24.11.2024 19:30;5;FFK;Salon Godet;"Konzert ""Gala der Tenöre""";Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12036;21.12.2024 14:30;21.12.2024 19:30;5;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;KaMü GmbH;0;Veranstaltung allgemein
+MV;12036;21.12.2024 14:30;21.12.2024 19:30;5;FFK;Saal;Konzert;Vtg ok;KaMü GmbH;720;Veranstaltung allgemein
+MV;12036;21.12.2024 14:30;21.12.2024 19:30;5;FFK;Salon Godet;Konzert;Vtg ok;KaMü GmbH;22;Veranstaltung allgemein
+MV;12112;07.01.2024 08:30;07.01.2024 14:00;5,5;FFK;Französische Friedrichstadtkirche;Catering zu: 75 Jahrfeier der Evangelischen Forschungsakademie;Vtg ok;Evangelische Forschungsakademie | Union Evangelischer Kirchen in der EKD (UEK);0;Veranstaltung allgemein
+MV;12112;07.01.2024 08:30;07.01.2024 14:00;5,5;FFK;Saal;Catering zu: 75 Jahrfeier der Evangelischen Forschungsakademie;Vtg ok;Evangelische Forschungsakademie | Union Evangelischer Kirchen in der EKD (UEK);720;Veranstaltung allgemein
+EV;;16.01.2024 18:00;16.01.2024 22:00;4;FFK;Französische Friedrichstadtkirche;Krimidinner;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;0;Veranstaltung allgemein
+EV;;16.01.2024 18:00;16.01.2024 22:00;4;FFK;Georges-Casalis-Saal;Krimidinner;Fix;BESONDERE ORTE Umweltforum Berlin GmbH;160;Veranstaltung allgemein
+MV;12087;24.01.2024 17:30;24.01.2024 23:00;5,5;FFK;Französische Friedrichstadtkirche;Networkingveranstaltung;Vtg ok;RUECKERCONSULT GmbH;0;Veranstaltung allgemein
+MV;12087;24.01.2024 17:30;24.01.2024 23:00;5,5;FFK;Georges-Casalis-Saal;Networkingveranstaltung;Vtg ok;RUECKERCONSULT GmbH;160;Veranstaltung allgemein
+MV;12087;24.01.2024 17:30;24.01.2024 23:00;5,5;FFK;Entrée;Networkingveranstaltung;Vtg ok;RUECKERCONSULT GmbH;24;Veranstaltung allgemein
+MV;12087;24.01.2024 17:30;24.01.2024 23:00;5,5;FFK;Rotunde;Networkingveranstaltung;Vtg ok;RUECKERCONSULT GmbH;87;Veranstaltung allgemein
+MV;12143;19.03.2024 10:30;20.03.2024 01:30;15;FFK;Französische Friedrichstadtkirche;Dinnerveranstaltung;Vtg ok;insolite Germany GmbH;0;Veranstaltung allgemein
+MV;12143;19.03.2024 10:30;20.03.2024 01:30;15;FFK;Saal;Dinnerveranstaltung;Vtg ok;insolite Germany GmbH;720;Veranstaltung allgemein
+MV;12143;19.03.2024 10:30;20.03.2024 01:30;15;FFK;Georges-Casalis-Saal;Dinnerveranstaltung;Vtg ok;insolite Germany GmbH;160;Veranstaltung allgemein
+MV;12136;16.05.2024 09:00;16.05.2024 23:00;14;FFK;Französische Friedrichstadtkirche;IMK-Forum 2024;Vtg ok;Hans-Böckler-Stiftung;0;Veranstaltung allgemein
+MV;12136;16.05.2024 09:00;16.05.2024 23:00;14;FFK;Saal;IMK-Forum 2024;Vtg ok;Hans-Böckler-Stiftung;720;Veranstaltung allgemein
+MV;12136;16.05.2024 09:00;16.05.2024 23:00;14;FFK;Georges-Casalis-Saal;IMK-Forum 2024;Vtg ok;Hans-Böckler-Stiftung;160;Veranstaltung allgemein
+MV;12136;16.05.2024 09:00;16.05.2024 23:00;14;FFK;Rotunde;IMK-Forum 2024;Vtg ok;Hans-Böckler-Stiftung;87;Veranstaltung allgemein
+MV;12136;16.05.2024 09:00;16.05.2024 23:00;14;FFK;Restaurant Hugo & Notte;IMK-Forum 2024;Vtg ok;Hans-Böckler-Stiftung;160;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Französische Friedrichstadtkirche;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;0;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Saal;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;720;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Georges-Casalis-Saal;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;160;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Entrée;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;24;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Rotunde;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;87;Veranstaltung allgemein
+MV;12113;06.12.2024 07:00;06.12.2024 15:00;8;FFK;Restaurant Hugo & Notte;Verleihung Forschungspreis;Vtg ok;Fürst Donnersmarck-Stiftung;160;Veranstaltung allgemein
+MV;12130;19.01.2024 14:50;19.01.2024 23:00;8,17;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12130;19.01.2024 14:50;19.01.2024 23:00;8,17;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12130;19.01.2024 14:50;19.01.2024 23:00;8,17;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12130;19.01.2024 14:50;19.01.2024 23:00;8,17;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12131;02.02.2024 14:30;02.02.2024 23:30;9;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12131;02.02.2024 14:30;02.02.2024 23:30;9;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12131;02.02.2024 14:30;02.02.2024 23:30;9;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12131;02.02.2024 14:30;02.02.2024 23:30;9;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12132;03.02.2024 17:00;03.02.2024 23:30;6,5;FFK;Französische Friedrichstadtkirche;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;0;Veranstaltung allgemein
+MV;12132;03.02.2024 17:00;03.02.2024 23:30;6,5;FFK;Saal;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;720;Veranstaltung allgemein
+MV;12132;03.02.2024 17:00;03.02.2024 23:30;6,5;FFK;Entrée;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;24;Veranstaltung allgemein
+MV;12132;03.02.2024 17:00;03.02.2024 23:30;6,5;FFK;Salon Godet;Candlelight Konzert;Vtg ok;Kzemos Germany GmbH;22;Veranstaltung allgemein
+MV;12196;16.10.2024 15:00;17.10.2024 00:00;9;FFK;Französische Friedrichstadtkirche;DRV-Weinempfang;Vtg ok;Deutscher Raiffeisenverband e.V.;0;Veranstaltung allgemein
+MV;12196;16.10.2024 15:00;17.10.2024 00:00;9;FFK;Georges-Casalis-Saal;DRV-Weinempfang;Vtg ok;Deutscher Raiffeisenverband e.V.;160;Veranstaltung allgemein
+MV;12196;16.10.2024 15:00;17.10.2024 00:00;9;FFK;Entrée;DRV-Weinempfang;Vtg ok;Deutscher Raiffeisenverband e.V.;24;Veranstaltung allgemein
+MV;12196;16.10.2024 15:00;17.10.2024 00:00;9;FFK;Rotunde;DRV-Weinempfang;Vtg ok;Deutscher Raiffeisenverband e.V.;87;Veranstaltung allgemein
+MV;12196;16.10.2024 15:00;17.10.2024 00:00;9;FFK;Restaurant Hugo & Notte;DRV-Weinempfang;Vtg ok;Deutscher Raiffeisenverband e.V.;160;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Französische Friedrichstadtkirche;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;0;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Saal;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;720;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Georges-Casalis-Saal;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;160;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Entrée;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;24;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Rotunde;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;87;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Restaurant Hugo & Notte;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;160;Veranstaltung allgemein
+MV;12280;23.08.2024 15:00;23.08.2024 17:30;2,5;FFK;Französische Friedrichstadtkirche;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;0;Veranstaltung allgemein
+MV;12280;23.08.2024 15:00;23.08.2024 17:30;2,5;FFK;Saal;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;720;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Französische Friedrichstadtkirche;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;0;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Saal;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;720;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Georges-Casalis-Saal;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;160;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Entrée;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;24;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Rotunde;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;87;Veranstaltung allgemein
+MV;12280;24.08.2024 08:30;24.08.2024 15:00;6,5;FFK;Salon Godet;Festakt zum Tag der Heimat 2024;Vtg ok;Bund der Vertriebenen;22;Veranstaltung allgemein
+MV;12173;06.03.2024 14:00;07.03.2024 00:30;10,5;FFK;Salon Godet;Dinner Event Turismo Andalucia;Vtg ok;ABSOLUTE COMUNICACIÓN S.L.;22;Veranstaltung allgemein
+MV;12123;04.02.2024 13:30;04.02.2024 19:30;6;FFK;Französische Friedrichstadtkirche;"Konzert ""International Youth Arts Festival 2024""";Vtg ok;ZH Travel & Kultur GmbH;0;Veranstaltung allgemein
+MV;12123;04.02.2024 13:30;04.02.2024 19:30;6;FFK;Saal;"Konzert ""International Youth Arts Festival 2024""";Vtg ok;ZH Travel & Kultur GmbH;720;Veranstaltung allgemein
+MV;12123;04.02.2024 13:30;04.02.2024 19:30;6;FFK;Georges-Casalis-Saal;"Konzert ""International Youth Arts Festival 2024""";Vtg ok;ZH Travel & Kultur GmbH;160;Veranstaltung allgemein
+MV;12123;04.02.2024 13:30;04.02.2024 19:30;6;FFK;Salon Godet;"Konzert ""International Youth Arts Festival 2024""";Vtg ok;ZH Travel & Kultur GmbH;22;Veranstaltung allgemein
+MV;12191;25.04.2024 19:30;25.04.2024 20:30;1;FFK;Französische Friedrichstadtkirche;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;0;Veranstaltung allgemein
+MV;12191;25.04.2024 19:30;25.04.2024 20:30;1;FFK;Georges-Casalis-Saal;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;160;Veranstaltung allgemein
+MV;12191;26.04.2024 13:45;26.04.2024 21:30;7,75;FFK;Georges-Casalis-Saal;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;160;Veranstaltung allgemein
+MV;12191;26.04.2024 13:45;26.04.2024 21:30;7,75;FFK;Französische Friedrichstadtkirche;Catering Hauptversammlung Reformierter Bund;Vtg ok;Reformierter Bund in Deutschland;0;Veranstaltung allgemein
+MV;12138;20.04.2024 14:00;20.04.2024 23:00;9;FFK;Französische Friedrichstadtkirche;Frühlingskonzert;Vtg ok;Büro Tina Tandler;0;Veranstaltung allgemein
+MV;12138;20.04.2024 14:00;20.04.2024 23:00;9;FFK;Saal;Frühlingskonzert;Vtg ok;Büro Tina Tandler;720;Veranstaltung allgemein
+MV;12138;20.04.2024 14:00;20.04.2024 23:00;9;FFK;Salon Godet;Frühlingskonzert;Vtg ok;Büro Tina Tandler;22;Veranstaltung allgemein
+MV;12324;26.10.2024 16:00;26.10.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert: Festival Orchester;Vtg ok;FRANZHANS 06 GmbH;0;Konzert
+MV;12324;26.10.2024 16:00;26.10.2024 22:00;6;FFK;Saal;Konzert: Festival Orchester;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12324;26.10.2024 16:00;26.10.2024 22:00;6;FFK;Salon Godet;Konzert: Festival Orchester;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12176;28.06.2024 16:00;28.06.2024 22:00;6;FFK;Saal;Kammerchor Konzert;Vtg ok;Collegium Musicum Berlin;720;Veranstaltung allgemein
+MV;12176;28.06.2024 16:00;28.06.2024 22:00;6;FFK;Salon Godet;Kammerchor Konzert;Vtg ok;Collegium Musicum Berlin;22;Veranstaltung allgemein
+MV;12176;28.06.2024 16:00;28.06.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Kammerchor Konzert;Vtg ok;Collegium Musicum Berlin;0;Veranstaltung allgemein
+MV;12135;13.03.2024 08:00;13.03.2024 11:00;3;FFK;Französische Friedrichstadtkirche;Heilsame Unterbrechnung;Zus;Bevollmächtigter des Rates der EKD bei der Bundesrepublik Deutschland und der Europäischen Union;0;Veranstaltung allgemein
+MV;12168;15.11.2024 16:00;15.11.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12168;15.11.2024 16:00;15.11.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Konzert
+MV;12168;15.11.2024 16:00;15.11.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12168;16.11.2024 16:00;16.11.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Konzert
+MV;12168;16.11.2024 16:00;16.11.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12168;16.11.2024 16:00;16.11.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12167;22.11.2024 16:00;22.11.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12167;22.11.2024 16:00;22.11.2024 22:00;6;FFK;Saal;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12167;22.11.2024 16:00;22.11.2024 22:00;6;FFK;Salon Godet;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12167;23.11.2024 12:00;23.11.2024 18:00;6;FFK;Französische Friedrichstadtkirche;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12167;23.11.2024 12:00;23.11.2024 18:00;6;FFK;Saal;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12167;23.11.2024 12:00;23.11.2024 18:00;6;FFK;Salon Godet;Konzerte: Festival Orchester und Ave Maria;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12166;30.11.2024 12:00;30.11.2024 18:00;6;FFK;Französische Friedrichstadtkirche;Konzert: Wolfgangseemusi;Vtg ok;FRANZHANS 06 GmbH;0;Konzert
+MV;12166;30.11.2024 12:00;30.11.2024 18:00;6;FFK;Saal;Konzert: Wolfgangseemusi;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12166;30.11.2024 12:00;30.11.2024 18:00;6;FFK;Salon Godet;Konzert: Wolfgangseemusi;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12165;06.12.2024 17:00;06.12.2024 22:00;5;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12165;06.12.2024 17:00;06.12.2024 22:00;5;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12165;06.12.2024 17:00;06.12.2024 22:00;5;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12165;07.12.2024 13:00;07.12.2024 22:00;9;FFK;Französische Friedrichstadtkirche;Konzerte;Vtg ok;FRANZHANS 06 GmbH;0;Konzert
+MV;12165;07.12.2024 13:00;07.12.2024 22:00;9;FFK;Saal;Konzerte;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12165;07.12.2024 13:00;07.12.2024 22:00;9;FFK;Salon Godet;Konzerte;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12163;20.12.2024 16:00;20.12.2024 22:00;6;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Veranstaltung allgemein
+MV;12163;20.12.2024 16:00;20.12.2024 22:00;6;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12163;20.12.2024 16:00;20.12.2024 22:00;6;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
+MV;12162;22.12.2024 13:15;22.12.2024 18:15;5;FFK;Französische Friedrichstadtkirche;Konzert;Vtg ok;FRANZHANS 06 GmbH;0;Konzert
+MV;12162;22.12.2024 13:15;22.12.2024 18:15;5;FFK;Saal;Konzert;Vtg ok;FRANZHANS 06 GmbH;720;Veranstaltung allgemein
+MV;12162;22.12.2024 13:15;22.12.2024 18:15;5;FFK;Salon Godet;Konzert;Vtg ok;FRANZHANS 06 GmbH;22;Veranstaltung allgemein
