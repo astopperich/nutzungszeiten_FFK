@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Auswertung der Nutzungszeiten FFK 2025.
+"""Auswertung der Nutzungszeiten FFK.
 
-Liest VA_Buchungen_evis_2025.xlsx, filtert nach definierten Kriterien
+Liest Buchungsdaten (Excel oder CSV), filtert nach definierten Kriterien
 und wertet die Nutzungsdauer nach Veranstalter-Kategorien und Räumen aus.
 """
 
@@ -13,10 +13,16 @@ import pandas as pd
 # Konfiguration
 # ---------------------------------------------------------------------------
 
-INPUT_FILE = Path(__file__).parent / "VA_Buchungen_evis_2025.xlsx"
-OUTPUT_DIR = Path(__file__).parent / "output"
+BASE_DIR = Path(__file__).parent
+OUTPUT_DIR = BASE_DIR / "output"
 
-# Spaltennamen (wie in der Excel-Datei)
+# Eingabedateien: (Dateiname, Jahres-Label)
+INPUT_FILES = [
+    ("VA_Buchungen_evis_2024.csv", "2024"),
+    ("VA_Buchungen_evis_2025.xlsx", "2025"),
+]
+
+# Spaltennamen (kanonisch, nach Normalisierung)
 COL_STATUS = "Buchungsstatus"
 COL_ROOM = "VA_Raum0"
 COL_BOOKING_NAME = "VA_Buchung_Name"
@@ -56,7 +62,17 @@ CAT3_LABEL = "Externe Veranstalter (alle übrigen)"
 # ---------------------------------------------------------------------------
 
 def load_data(filepath: Path) -> pd.DataFrame:
-    df = pd.read_excel(filepath, engine="openpyxl")
+    suffix = filepath.suffix.lower()
+    if suffix == ".xlsx":
+        df = pd.read_excel(filepath, engine="openpyxl")
+    elif suffix == ".csv":
+        df = pd.read_csv(filepath, sep=";", encoding="latin-1")
+    else:
+        raise ValueError(f"Unbekanntes Dateiformat: {suffix}")
+
+    # Spalte VA_Raum → VA_Raum0 normalisieren (2024-CSV hat nur VA_Raum)
+    if "VA_Raum" in df.columns and "VA_Raum0" not in df.columns:
+        df = df.rename(columns={"VA_Raum": "VA_Raum0"})
 
     # Whitespace in String-Spalten entfernen
     str_cols = df.select_dtypes(include=["object", "string"]).columns
@@ -121,9 +137,9 @@ def categorize_and_aggregate(df: pd.DataFrame) -> dict:
 # Ausgabe: Konsole
 # ---------------------------------------------------------------------------
 
-def print_results(categories: dict) -> None:
+def print_results(categories: dict, year: str) -> None:
     print("=" * 70)
-    print("AUSWERTUNG NUTZUNGSZEITEN FFK 2025")
+    print(f"AUSWERTUNG NUTZUNGSZEITEN FFK {year}")
     print("=" * 70)
 
     for label, table in categories.items():
@@ -146,10 +162,11 @@ def print_results(categories: dict) -> None:
 # Ausgabe: Markdown
 # ---------------------------------------------------------------------------
 
-def write_markdown(categories: dict, outpath: Path) -> None:
+def write_markdown(categories: dict, outpath: Path, year: str,
+                   source_name: str) -> None:
     lines = [
-        "# Auswertung Nutzungszeiten FFK 2025\n",
-        f"Quelle: `{INPUT_FILE.name}`\n",
+        f"# Auswertung Nutzungszeiten FFK {year}\n",
+        f"Quelle: `{source_name}`\n",
         "## Filterkriterien\n",
         f"- Buchungsstatus = \"{REQUIRED_STATUS}\"",
         f"- Ausgeschlossene Räume: {', '.join(sorted(EXCLUDED_ROOMS))}",
@@ -199,20 +216,26 @@ def write_csv(categories: dict, outpath: Path) -> None:
 # ---------------------------------------------------------------------------
 
 def main():
-    print(f"Lade Daten aus: {INPUT_FILE}")
-    df = load_data(INPUT_FILE)
-    print(f"  Geladene Zeilen: {len(df)}")
+    for filename, year in INPUT_FILES:
+        filepath = BASE_DIR / filename
+        if not filepath.exists():
+            print(f"WARNUNG: {filepath} nicht gefunden, überspringe.")
+            continue
 
-    filtered = apply_filters(df)
-    print(f"  Zeilen nach Filterung: {len(filtered)}")
+        print(f"\nLade Daten aus: {filepath.name}")
+        df = load_data(filepath)
+        print(f"  Geladene Zeilen: {len(df)}")
 
-    categories = categorize_and_aggregate(filtered)
-    print_results(categories)
+        filtered = apply_filters(df)
+        print(f"  Zeilen nach Filterung: {len(filtered)}")
 
-    md_path = OUTPUT_DIR / "nutzungszeiten_2025.md"
-    csv_path = OUTPUT_DIR / "nutzungszeiten_2025.csv"
-    write_markdown(categories, md_path)
-    write_csv(categories, csv_path)
+        categories = categorize_and_aggregate(filtered)
+        print_results(categories, year)
+
+        md_path = OUTPUT_DIR / f"nutzungszeiten_{year}.md"
+        csv_path = OUTPUT_DIR / f"nutzungszeiten_{year}.csv"
+        write_markdown(categories, md_path, year, filepath.name)
+        write_csv(categories, csv_path)
 
 
 if __name__ == "__main__":
